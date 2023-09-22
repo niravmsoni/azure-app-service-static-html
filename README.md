@@ -10,3 +10,6 @@ Zip deploy files from the current working directory to the web app.
 
 
 ![image](https://github.com/niravmsoni/azure-app-service-static-html/assets/6556021/ddbc9100-f9c4-46bc-a615-36cdffb02b0f)
+
+
+![image](https://github.com/niravmsoni/azure-app-service-static-html/assets/6556021/48dc563a-d8e8-448c-b128-fa437932c3cb)
